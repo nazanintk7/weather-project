@@ -1,5 +1,6 @@
 body {
   font-family: arial, sans-serif;
+  background-color: cornflowerblue;
 }
 
 h1 {
@@ -52,4 +53,8 @@ li {
 
 .search-form {
   margin-bottom: 20px;
+}
+.current-location-button {
+  height: 40px;
+  width: 40px;
 }
